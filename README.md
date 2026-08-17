@@ -1,29 +1,19 @@
 <!--
-  ┌────────────────────────────────────────────────────────────────────┐
-  │  SETUP (one time):                                                  │
-  │  1. Create a PUBLIC repo named EXACTLY your username                │
-  │     e.g.  AbdulSami969 / AbdulSami969                               │
-  │  2. Add this file as README.md                                     │
-  │  3. Find & replace  AbdulSami969  with your real username          │
-  │  4. For the SNAKE graph on top: also add the workflow file          │
-  │     .github/workflows/snake.yml  (included in this package),        │
-  │     then run it once: repo → Actions → "Generate Snake" → Run.      │
-  └────────────────────────────────────────────────────────────────────┘
+  ┌────────────────────────────────────────────────────────────┐
+  │  This whole thing works with NO GitHub Action / no setup.  │
+  │  1. Put this file as README.md in your  username/username  │
+  │     repo (AbdulSami969 / AbdulSami969).                     │
+  │  2. Find & replace  AbdulSami969  with your real username   │
+  │     if it ever changes. That's it — commit and done.        │
+  └────────────────────────────────────────────────────────────┘
 -->
 
-<!-- ================= CONTRIBUTION SNAKE (top) ================= -->
+<!-- ================= CONTRIBUTION / ACTIVITY GRAPH (TOP) ================= -->
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulSami969/AbdulSami969/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdulSami969/AbdulSami969/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/AbdulSami969/AbdulSami969/output/github-snake.svg" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulSami969&bg_color=0C0C11&color=F5F5FA&line=7C5CFC&point=A78BFA&area=true&area_color=7C5CFC&title_color=A78BFA&hide_border=true&custom_title=Abdul%20Sami%20—%20Contribution%20Graph" width="100%" />
 
 </div>
-
-<!-- thin purple divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%"/>
 
 <!-- ================= ANIMATED HERO ================= -->
 <div align="center">
@@ -39,7 +29,7 @@
 
 </div>
 
-<!-- ================= ABOUT (code style) ================= -->
+<!-- ================= ABOUT ================= -->
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> whoami
 
 ```typescript
@@ -63,7 +53,7 @@ const abdulSami = {
 
 </div>
 
-<!-- ================= ANIMATED STATS ================= -->
+<!-- ================= STATS ================= -->
 ### 📊 Stats
 
 <div align="center">
@@ -74,11 +64,6 @@ const abdulSami = {
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=AbdulSami969&hide_border=true&background=0C0C11&stroke=7C5CFC&ring=7C5CFC&fire=A78BFA&currStreakNum=F5F5FA&sideNums=F5F5FA&currStreakLabel=A78BFA&sideLabels=8A8A99&dates=8A8A99" height="165" />
-
-<br/><br/>
-
-<!-- animated activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulSami969&bg_color=0C0C11&color=A78BFA&line=7C5CFC&point=F5F5FA&area=true&hide_border=true&custom_title=Contribution%20Graph" width="98%" />
 
 <br/><br/>
 
